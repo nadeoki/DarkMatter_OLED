@@ -1,4 +1,4 @@
-# Dark Matter Remastered
+# Dark Matter (OLED)
 A less frosty, AMOLED version of Dark Matter
 > This is a remake of the remake the original Dark Matter theme by [cosmicsalad](https://github.com/DiscordStyles/DarkMatter) (by Gibbu).
 
