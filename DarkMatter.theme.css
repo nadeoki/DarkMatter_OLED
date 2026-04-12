@@ -16,9 +16,9 @@
     --background-solid: #000000;
     --background-solid-dark: #000000; 
     --background-solid-darker: #0a0a0a;
-    --accent: 163, 10, 10;
+    --accent: 230, 18, 39;
     --accent-alt: 230, 18, 39;
     --scrollbar-color: rgba(163, 10, 10, 1);
-    --context-menu-font-color: rgba(163, 10, 10, 1);
+    --context-menu-font-color: rgba(230, 18, 39, 1);
     --context-menu-transparency: rgba(40, 40, 40, 1);
 }
